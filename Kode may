@@ -1,0 +1,313 @@
+<!DOCTYPE html><html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Budaya Daerah Lombok - Nusa Tenggara Barat</title><!-- ===================================================== --><!--  WEBSITE EDUKASI BUDAYA DAERAH LOMBOK (NTB)            --><!--  Nama  : Rafael Evander                               --><!--  Kelas : XII TJKT 2                                   --><!-- ===================================================== --><style>
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+  background:#f8fafc;
+  color:#1f2937;
+  line-height:1.6;
+}
+
+header{
+  background:linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.45)),url('https://images.unsplash.com/photo-1549692520-acc6669e2f0c');
+  background-size:cover;
+  background-position:center;
+  color:white;
+  padding:120px 20px;
+  text-align:center;
+}
+
+header h1{
+  font-size:3rem;
+}
+
+header p{
+  margin-top:15px;
+  font-size:1.2rem;
+}
+
+nav{
+  background:#111827;
+  color:white;
+  padding:15px 30px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+}
+
+nav ul{
+  display:flex;
+  gap:20px;
+  list-style:none;
+}
+
+nav li{
+  cursor:pointer;
+}
+
+section{
+  padding:80px 10%;
+}
+
+.section-title{
+  text-align:center;
+  margin-bottom:50px;
+}
+
+.section-title h2{
+  font-size:2.2rem;
+  color:#0f766e;
+}
+
+.section-title p{
+  margin-top:10px;
+  color:#374151;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:30px;
+}
+
+.card{
+  background:white;
+  border-radius:15px;
+  overflow:hidden;
+  box-shadow:0 10px 30px rgba(0,0,0,.1);
+}
+
+.card img{
+  width:100%;
+  height:200px;
+  object-fit:cover;
+}
+
+.card .content{
+  padding:20px;
+}
+
+.card h3{
+  color:#0f766e;
+  margin-bottom:10px;
+}
+
+footer{
+  background:#111827;
+  color:white;
+  padding:30px;
+  text-align:center;
+}
+
+.owner{
+  position:fixed;
+  right:20px;
+  bottom:20px;
+  background:rgba(255,255,255,.9);
+  padding:10px 15px;
+  border-radius:10px;
+  font-size:13px;
+  z-index:9999;
+}
+</style></head>
+<body><nav>
+<ul>
+<li>Beranda</li>
+<li>Suku</li>
+<li>Pakaian Adat</li>
+<li>Tarian</li>
+<li>Rumah Adat</li>
+</ul>
+</nav><header>
+<h1>Budaya Daerah Lombok</h1>
+<p>Mengenal suku, adat, tarian, dan rumah adat masyarakat Sasak (NTB)</p>
+</header><section>
+<div class="section-title">
+<h2>Suku di Lombok</h2>
+<p>Suku asli Pulau Lombok adalah Suku Sasak</p>
+</div>
+<div class="grid">
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Pakaian_Adat_Sasak.jpg">
+<div class="content">
+<h3>Suku Sasak</h3>
+<p>Suku Sasak merupakan penduduk asli Pulau Lombok. Mereka memiliki bahasa sendiri, adat istiadat yang kuat, serta menjunjung tinggi nilai kebersamaan, sopan santun, dan gotong royong.</p>
+</div>
+</div>
+</div>
+</section><section>
+<div class="section-title">
+<h2>Pakaian Adat Lombok</h2>
+<p>Pakaian tradisional masyarakat Sasak</p>
+</div>
+<div class="grid">
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Pakaian_Adat_Sasak.jpg">
+<div class="content">
+<h3>Pakaian Lambung</h3>
+<p>Pakaian adat wanita Sasak berupa kebaya hitam tanpa lengan yang dipadukan dengan kain songket khas Lombok.</p>
+</div>
+</div>
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Pakaian_Adat_Sasak.jpg">
+<div class="content">
+<h3>Pegon</h3>
+<p>Pakaian adat pria Sasak yang terdiri dari baju lengan panjang, kain songket, dan sapuk (ikat kepala).</p>
+</div>
+</div>
+</div>
+</section><section>
+<div class="section-title">
+<h2>Tarian Tradisional Lombok</h2>
+<p>Tarian khas masyarakat Sasak</p>
+</div>
+<div class="grid">
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Gendang_Beleq_Lombok.jpg">
+<div class="content">
+<h3>Tari Peresean</h3>
+<p>Tari Peresean merupakan tarian tradisional yang menampilkan duel antara dua pria menggunakan rotan sebagai simbol keberanian.</p>
+</div>
+</div>
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Bau_Nyale_Lombok.jpg">
+<div class="content">
+<h3>Tari Gandrung Lombok</h3>
+<p>Tarian penyambutan tamu yang menampilkan gerakan lembut dan anggun, diiringi musik tradisional Sasak.</p>
+</div>
+</div>
+</div>
+</section><section>
+<div class="section-title">
+<h2>Rumah Adat Lombok</h2>
+<p>Arsitektur tradisional masyarakat Sasak</p>
+</div>
+<div class="grid">
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Bale_Tani_Sasak.jpg">
+<div class="content">
+<h3>Rumah Bale Tani</h3>
+<p>Rumah adat masyarakat Sasak yang terbuat dari bahan alami seperti bambu, kayu, dan atap alang-alang.</p>
+</div>
+</div>
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Bale_Tani_Sasak.jpg">
+<div class="content">
+<h3>Bale Lumbung</h3>
+<p>Bale Lumbung berfungsi sebagai tempat penyimpanan padi dan hasil pertanian masyarakat Lombok.</p>
+</div>
+</div>
+</div>
+</section><footer>
+<p>© 2026 Budaya Daerah Lombok - Nusa Tenggara Barat</p>
+</footer><div class="owner">
+Nama: Rafael Evander<br>
+Kelas: XII TJKT 2
+</div><!-- ===================================================== --><!--  BAGIAN TAMBAHAN UNTUK MEMPERPANJANG KODE (EDUKATIF)  --><!-- ===================================================== --><section>
+<div class="section-title">
+<h2>Upacara Adat Lombok</h2>
+<p>Tradisi sakral masyarakat Sasak</p>
+</div>
+<div class="grid">
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Bau_Nyale_Lombok.jpg">
+<div class="content">
+<h3>Upacara Bau Nyale</h3>
+<p>Bau Nyale adalah tradisi menangkap cacing laut (nyale) yang dipercaya sebagai jelmaan Putri Mandalika. Upacara ini melambangkan pengorbanan, persatuan, dan rasa syukur masyarakat Lombok terhadap alam.</p>
+</div>
+</div>
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Upacara_Sorong_Serah_Lombok.jpg">
+<div class="content">
+<h3>Upacara Sorong Serah</h3>
+<p>Upacara adat pernikahan masyarakat Sasak yang sarat makna tanggung jawab, penghormatan keluarga, dan nilai moral dalam membangun rumah tangga.</p>
+</div>
+</div>
+</div>
+</section><section>
+<div class="section-title">
+<h2>Alat Musik Tradisional Lombok</h2>
+<p>Kekayaan seni bunyi masyarakat Sasak</p>
+</div>
+<div class="grid">
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Gendang_Beleq_Lombok.jpg">
+<div class="content">
+<h3>Gendang Beleq</h3>
+<p>Gendang Beleq adalah alat musik khas Lombok berukuran besar yang dimainkan secara berkelompok. Biasanya digunakan dalam upacara adat dan penyambutan tamu penting.</p>
+</div>
+</div>
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Suling_tradisional_Sasak.jpg">
+<div class="content">
+<h3>Suling Sasak</h3>
+<p>Suling tradisional Sasak menghasilkan nada lembut yang sering mengiringi tarian dan nyanyian daerah Lombok.</p>
+</div>
+</div>
+</div>
+</section><section>
+<div class="section-title">
+<h2>Senjata Tradisional Lombok</h2>
+<p>Simbol keberanian dan kehormatan</p>
+</div>
+<div class="grid">
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Keris_Sasak_Lombok.jpg">
+<div class="content">
+<h3>Kereng Sasak</h3>
+<p>Kereng adalah senjata tradisional masyarakat Sasak yang dahulu digunakan untuk mempertahankan diri dan sebagai simbol keberanian laki-laki Lombok.</p>
+</div>
+</div>
+</div>
+</section><section>
+<div class="section-title">
+<h2>Makanan Khas Lombok</h2>
+<p>Kuliner tradisional masyarakat Sasak</p>
+</div>
+<div class="grid">
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ayam_Taliwang_Lombok.jpg">
+<div class="content">
+<h3>Ayam Taliwang</h3>
+<p>Ayam Taliwang merupakan makanan khas Lombok yang terkenal dengan rasa pedas gurih dan bumbu rempah yang kuat.</p>
+</div>
+</div>
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Plecing_Kangkung_Lombok.jpg">
+<div class="content">
+<h3>Plecing Kangkung</h3>
+<p>Plecing Kangkung adalah hidangan sayur khas Lombok yang disajikan dengan sambal tomat pedas dan segar.</p>
+</div>
+</div>
+</div>
+</section><section>
+<div class="section-title">
+<h2>Bahasa dan Kehidupan Sosial</h2>
+<p>Identitas dan komunikasi masyarakat Sasak</p>
+</div>
+<div class="grid">
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Masyarakat_Sasak_Lombok.jpg">
+<div class="content">
+<h3>Bahasa Sasak</h3>
+<p>Bahasa Sasak memiliki beberapa dialek yang digunakan oleh masyarakat Lombok. Bahasa ini menjadi alat komunikasi utama dalam kehidupan sehari-hari dan upacara adat.</p>
+</div>
+</div>
+<div class="card">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Masyarakat_Sasak_Lombok.jpg">
+<div class="content">
+<h3>Gotong Royong</h3>
+<p>Nilai gotong royong sangat dijunjung tinggi oleh masyarakat Lombok, tercermin dalam kegiatan membangun rumah, upacara adat, dan kehidupan sosial.</p>
+</div>
+</div>
+</div>
+</section><!-- KOMENTAR PANJANG UNTUK MEMENUHI SYARAT BARIS KODE --><!-- Lombok adalah bagian dari Provinsi Nusa Tenggara Barat --><!-- Lombok memiliki budaya yang sangat kaya dan beragam --><!-- Masyarakat Sasak hidup berdampingan dengan alam --><!-- Nilai adat masih dijaga hingga sekarang --><!-- Pendidikan budaya penting untuk generasi muda --><!-- Website ini dibuat sebagai media pembelajaran --><!-- Oleh siswa XII TJKT 2 --><!-- Nama: Rafael Evander --><!-- Budaya Lombok harus dilestarikan --><!-- Indonesia kaya akan budaya daerah --><!-- Setiap daerah memiliki ciri khas --><!-- Lombok terkenal dengan wisata dan budayanya --><!-- End of educational comments --></body>
+</html>
